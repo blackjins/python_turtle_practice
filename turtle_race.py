@@ -2,6 +2,7 @@ import turtle
 import random
 
 color_list = ("red", "blue", "yellow", "BlueViolet", "brown", "beige", "green", "LightYellow", "LimeGreen", "SkyBlue" )
+num_list = ("two", "thr", "for", "fiv", "six", "sev", "eig", "nin", "ten")
 die =[1,2,3,4,5,6]
 
 player_one = turtle.Turtle()
